@@ -1,4 +1,4 @@
-# Machine-Learning
+# Klasifikasi Konten Negatif Web Berbasis Teks Menggunakan Machine Learning
 Tugas Akhir Kuliah oleh Reihan Hanafi Wiyanatra
 
 Data yang digunakan adalah Data_Labelsv2.csv
